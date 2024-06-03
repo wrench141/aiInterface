@@ -77,3 +77,9 @@
   color: rgb(228, 228, 228);
   font-size: 14px;
 }
+
+@media screen and (max-width: 1021px) {
+  .ai{
+    width: 100%;
+  }
+}
