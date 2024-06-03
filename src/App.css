@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
+.container{
+  width: 50%;
+  height: 100%;
+  overflow-x: scroll;
+  padding-bottom: 70px;
+  position: relative;
+}
 
 .input{
   width: 50%;
@@ -79,7 +86,15 @@
 }
 
 @media screen and (max-width: 1021px) {
-  .ai{
+  .container{
     width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-bottom: 80px;
+  }
+  .input{
+    width: 80%;
   }
 }

@@ -56,14 +56,7 @@ function App() {
 
   return (
     <div
-      style={{
-        width: "50%",
-        height: "100%",
-        overflowX: "scroll",
-        paddingBottom: "70px",
-        position: "relative",
-      }}
-    >
+      className="container" >
       <div className="input">
         <input
           type="text"
