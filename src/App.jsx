@@ -2,7 +2,9 @@ import { useState, useRef, useEffect } from "react";
 import io from "socket.io-client";
 import "./App.css";
 
-const socket = io("http://localhost:3000"); // Make sure this matches your server URL
+// const socket = io("http://localhost:3000"); // Make sure this matches your server URL
+
+const socket = io("https://aiserver-gxon.onrender.com");
 
 function App() {
   const [input, setInput] = useState("");
