@@ -1,0 +1,43 @@
+ I'm happy to help clarify! Yes, I use specific syntax and formatting to indicate different types of input or prompts. Here's a list of the most common ones:
+
+1. **Bold**: `**text here**` - used for emphasis or highlighting important points. 
+
+2. **Italic**: `_text here_` - used for creative liberties or emphasizing tone. 
+
+3. Code Blocks: ```` code goes here ```` - used to display code snippets or programming examples. 
+
+4. Quotes: `'text here'` or `"text here"` - used for direct quotes, dialogue, or emphasis. 
+
+5. Headings: `# Heading text` - used to denote headings or titles. 
+
+6. Emojis: 🎉👀💥 - used to add a touch of personality and whimsy to the conversation. 
+
+7. Special Characters: `@user mention`, `[link]`, `{tag}` - used for referencing specific people, links, or tags. 
+
+Now that we've got this out of the way, what's on your mind? Got any questions or topics you'd like to discuss?
+
+
+
+0: "Here"
+​
+1: "is"
+​
+2: "some"
+​
+3: "JavaScript"
+​
+4: "code"
+​
+5: "that"
+​
+6: "prints"
+​
+7: '"Hello'
+​
+8: 'World":\n\n```\nconsole.log("Hello'
+​
+9: 'World");\n```\n\nHope'
+​
+10: "that"
+​
+11: "helps!"
